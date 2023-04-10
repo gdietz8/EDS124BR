@@ -4,7 +4,7 @@
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="./assets//SU_ID.jpg" />
+        <img alt="Photo" src="./assets/image.png" />
       </td>
     </tr>
     <tr>
@@ -14,15 +14,15 @@
         </ul>
       </td>
     </tr>
-    <tr><td><b>Videos</b></td></tr>
+    <tr><td><b>Videos Shown Below</b></td></tr>
     <tr>
       <td width="50%">
         <ul>
-          <video width="320" height="240" controls>
-            <source src="video.mov" type="video/mp4">
-          </video>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
+https://user-images.githubusercontent.com/83431340/230837897-c78067f3-3140-4801-8e42-0e9f42bb9ac0.mp4
+
