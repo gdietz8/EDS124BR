@@ -8,3 +8,5 @@ https://user-images.githubusercontent.com/83431340/230840809-1949df0f-87d4-49a0-
 ### Write and Explain A Program
 https://user-images.githubusercontent.com/83431340/232254857-6c9240f6-7184-4502-a694-685a8b1c4b37.mp4
 
+### Teaching Programming Portfolio - Lesson Plan
+https://user-images.githubusercontent.com/83431340/232256516-f1ec4c03-35e9-404f-8d0b-d455d4519625.mp4
