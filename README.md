@@ -16,3 +16,6 @@ https://user-images.githubusercontent.com/83431340/233898369-1d6710c0-326a-438a-
 
 ### Events
 https://user-images.githubusercontent.com/83431340/233900632-04f739f0-0e7e-4771-ad34-60a0faf00665.mp4
+
+### Variables
+https://user-images.githubusercontent.com/83431340/235330981-401f8b56-8154-4e57-9f09-dd7fb5c2352c.mp4
