@@ -25,3 +25,6 @@ https://user-images.githubusercontent.com/83431340/236725524-87dc4702-67ef-4598-
 
 ###  If Else
 https://user-images.githubusercontent.com/83431340/236731479-f8306154-590c-4a01-a812-fd000d60d99c.mp4
+
+## Nested If/Else
+https://github.com/gdietz8/EDS124BR/assets/83431340/89d8714e-4ed3-49c6-8b45-5cc303c5bea8
