@@ -1,6 +1,9 @@
 # Genevieve Dietz's Portfolio
 ## EDS 124BR
 
+## Abstraction
+https://github.com/gdietz8/EDS124BR/assets/83431340/459d0d78-1926-4921-9c58-a64729227a60
+
 ## Compound Conditionals
 https://github.com/gdietz8/EDS124BR/assets/83431340/290b389a-eef5-404d-a613-2fdf97bd66fb
 
