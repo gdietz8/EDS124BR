@@ -1,6 +1,9 @@
 # Genevieve Dietz's Portfolio
 ## EDS 124BR
 
+## Lists
+https://github.com/gdietz8/EDS124BR/assets/83431340/39032873-6c76-4aae-a473-5f191ccc6e60
+
 ## Abstraction
 https://github.com/gdietz8/EDS124BR/assets/83431340/459d0d78-1926-4921-9c58-a64729227a60
 
